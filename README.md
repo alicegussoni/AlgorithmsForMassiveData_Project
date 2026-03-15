@@ -1,4 +1,4 @@
-# AlgorithmsForMassiveData_Project
+# Algorithms For Massive Data Project
 
 The following project was implemented using Python 3 for the course of Algorithms For Massive Data, module taught at the Master in «Data Science for Economics» at the Università degli Studi di Milano.
 The primary task was to implement a detector of pairs of similar abstract for scientific papers.

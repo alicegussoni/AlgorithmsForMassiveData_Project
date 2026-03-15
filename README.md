@@ -14,7 +14,7 @@ The project follows these steps:
 - Conversion of tokens into sets
 
 ### 2. Exact similarity computation
-Jaccard similarity is first computed directly on a subset of documents in order to establish a baseline.
+Jaccard similarity is first computed directly on a subset of documents.
 
 ### 3. MinHash approximation
 
